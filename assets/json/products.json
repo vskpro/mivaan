@@ -1,0 +1,468 @@
+﻿[       
+  {
+          "id": 1,
+          "category":4,
+          "name": "Amoxmed-375",
+          "slug": "amoxmed-375",
+          "tagline": "Amoxmed-375 is an antibiotic used to treat infections caused in skin, middle ear, lungs, nose, throat and urinary tract infections.",
+          "image": "assets/images/products/antibiotics/amoxmed-375.png",
+          "form": "Oral Tablet",
+          "quantity": "1x6"
+
+        },
+        {
+          "id": 2,
+          "category":4,
+          "name": "Amoxmed-625",
+          "slug": "amoxmed-625",
+          "tagline": "Amoxmed-625 is an antibiotic that is used to treat infections caused in skin, middle ear, lungs, ears, nose, throat and urinary tract infections.",
+          "image": "assets/images/products/antibiotics/amoxmed-625.png",
+          "form": "Oral Tablet",
+          "quantity": "1x6"
+        },
+        {
+          "id": 3,
+          "category":12,
+          "name": "Dizeen",
+          "slug": "dizeen",
+          "tagline": "Dizeen is a digestive tonic that provides quick relief from gas and acidity due to its special formula. It enhances the secretion of digestive enzymes which improves absorption of food and provides instant relief.",
+          "image": "assets/images/products/Gastroenterology management/Dizeen.png"
+        },
+        {
+          "id": 4,
+          "category":4,
+          "name": "EEGIE - 500",
+          "slug": "eegie-500",
+          "tagline": "Treating bacterial infections such as middle ear infections, strep throat, pneumonia, traveler's diarrhea & certain intestinal infections. ",
+          "image": "assets/images/products/antibiotics/EEGIE - 500.png",
+          "form": "Oral Tablet",
+          "quantity": "10x3x3",
+          "strength": "500mg"
+
+        },
+        {
+          "id": 5,
+          "category":12,
+          "name": "Einow",
+          "slug": "einow",
+          "tagline": "Einow is the best solution from acidity. Its unique formulation dilutes excessive stomach acid and provides instant relief. Available in lemon flavour.",
+          "image": "assets/images/products/Gastroenterology management/Einow.png",
+          "flavour": "Lemon"
+        },
+        {
+          "id": 6,
+          "category":4,
+          "name": "levoflox 500",
+          "slug": "levoflox-500",
+          "tagline": "levoflox 500 is used for treatment of bacterial infections in adults by killing the harmful bacteria causing infections in the skin, urinary tract, trachea, viral infections, etc.",
+          "image": "assets/images/products/antibiotics/levoflox 500.png",
+          "form": "Oral Tablet",
+          "quantity": "10x10",
+          "strength": "500mg"
+
+        },
+        {
+          "id": 7,
+          "category":4,
+          "name": "Narphlax",
+          "slug": "narphlax",
+          "tagline": "Narphlax is a combined medications used for treating variety of bacterial infections. mostly used for treatment of Urinary Tract Infection.",
+          "image": "assets/images/products/antibiotics/Narphlax.png",
+          "form": "Oral Tablet",
+          "quantity": "10x10"
+        },
+        {
+          "id": 8,
+          "category":4,
+          "name": "OLMAX-500",
+          "slug": "olmax-500",
+          "tagline": "Olmax-500 is a medication used for treatment of bacterial infections in skin, nose throat, ears, lungs, stomach and urinary tract infections.",
+          "image": "assets/images/products/antibiotics/OLMAX-500.png",
+          "form": "Oral Tablet",
+          "quantity": "10x2"
+        },
+        {
+          "id": 9,
+          "category":11,
+          "name": "Superzyme Plus",
+          "slug": "superzyme-plus",
+          "tagline": "Superzyme Plus is used for controlling, preventing and treatment of digestive disorders. It provides relief from indigestion, enzyme malfunction, etc. Available in mixed fruit flavour.",
+          "image": "assets/images/products/Digestive Enzyme/Superzyme Plus.png",
+          "quantity": "200ml",
+          "flavour": "Mixed fruit"
+
+        },
+        {
+          "id": 10,
+          "category":4,
+          "name": "TAXO",
+          "slug": "taxo",
+          "tagline": "Cefotaxime used to treat a variety of infections especially after post-surgery. It is an effective antibacterial, suitable for I.M and I.V use.",
+          "image": "assets/images/products/antibiotics/TAXO.png",
+          "strength": "1g",
+          "form": "Injection"
+
+        },
+        {
+          "id": 11,
+          "category":4,
+          "name": "WALAMOX CV 625",
+          "slug": "walamox-cv-625",
+          "tagline": "Antibiotic used to treat infections caused in skin, lungs, ears, nose throat & UTI",
+          "image": "assets/images/products/antibiotics/WALAMOX CV 625.png",
+          "form": "Oral Tablet",
+          "quantity": "10x1x6"
+
+        },
+        {
+          "id": 12,
+          "category":9,
+          "name": "ASCORIL+",
+          "slug": "ascoril+",
+          "tagline": "Ascoril Plus is used for treating dry cough and congestion that is generally caused by common cold.",
+          "image": "assets/images/products/Cough managment/ACEKOREL+.png"
+        },
+        {
+          "id": 13,
+          "category":9,
+          "name": "ACEKOREL-D",
+          "slug": "acekorel-D",
+          "tagline": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi aut unde maxime repudiandae nemo nisi placeat",
+          "image": "assets/images/products/Cough managment/ACEKOREL-D.png"
+        },
+        {
+          "id": 14,
+          "category":1,
+          "name": "REGESTRONE",
+          "slug": "regestrone",
+          "tagline": "Regestrone is used for treating menstrual disorders & abnormal vaginal bleeding caused by hormonal imbalance.",
+          "strength": "5mg",
+          "quantity": "4 x 5 x 10",
+          "image": "assets/images/products/amenorrhea/REGESTRONE.png"
+        },
+        {
+          "id": 15,
+          "category":9,
+          "name": "Syfdyl",
+          "slug": "syfdyl",
+          "tagline": "Syfdyl syrup provides relief from common ailments such as cough, cold, bronchial infections, tonsillitis, etc.",
+          "image": "assets/images/products/Cough managment/Syfdyl.png"
+        },
+        {
+          "id": 16,
+          "category":14,
+          "name": "Akosprin - 75",
+          "slug": "akosprin-75",
+          "tagline": "Akospirin 75 helps prevent blood from clotting in the body. It can prevent clotting that causes blood to be blocked from regions near the brain and heart.",
+          "image": "assets/images/products/Pain Killers/Akosprin - 75.png",
+          "strength": "75mg",
+          "quantity": "25x14"
+        },
+        {
+          "id": 17,
+          "category":6,
+          "name": "Atenol - 25",
+          "slug": "atenol-25",
+          "tagline": "Atenol 25 provides relief from high blood pressure and heart strokes. ",
+          "image": "assets/images/products/Blood Pressure Management/Atenolol - 25.png",
+          "quantity": "30x2x14"
+        },
+        {
+          "id": 18,
+          "category":6,
+          "name": "Telmi - Amlo",
+          "slug": "telmi-amlo",
+          "tagline": "Telmi Amlo is used for patients with hypertension. By decreasing high blood pressure, this medication is useful for preventing kidney problems, heart attacks and strokes.",
+          "image": "assets/images/products/Blood Pressure Management/Telmi - Amlo.png",
+          "strength": "40mg + 5mg",
+          "quantity": "10x15"
+
+        },
+        {
+          "id": 19,
+          "category":6,
+          "name": "Atertaz",
+          "slug": "atertaz",
+          "tagline": "Atertaz is used to reduce excess cholesterol from the liver and decrease the risk of heart diseases. It is used to treat ‘bad cholesterol’, fats and helps in liver management.",
+          "image": "assets/images/products/Blood Pressure Management/Atertaz.png",
+          "strength": "10mg",
+          "quantity": "3x10"
+        },
+        {
+          "id": 20,
+          "category":2,
+          "name": "Fericip XT",
+          "slug": "fericip-xt",
+          "tagline": "Faricip XT is recommended for patients with iron deficiency caused by chronic blood loss resulting in anaemia.",
+          "image": "assets/images/products/anemia/Farisip XT.png",
+          "quantity": "150ml"
+        },
+        {
+          "id": 21,
+          "category":7,
+          "name": "Glycomat - 500",
+          "slug": "glycomat-500",
+          "tagline": "Glycomat 500 contains antibiotics that can control high blood sugar. This prevents kidney damage, blindness, nerve problems, risk of a heart attack, etc. It is recommended for patients with Type 2 Diabetes.",
+          "image": "assets/images/products/Blood Sugar Management/Glycomat - 500.png",
+          "strength": "500mg",
+          "quantity": "10x10"
+
+        },
+        {
+          "id": 22,
+          "category":14,
+          "name": "Kombeflom",
+          "slug": "kombeflom",
+          "tagline": "Kombaltram is used to provide relief from ailments associated with toothache, headache, muscle pain, back pain, etc. It is also used for treating menstrual pains and arthritis.",
+          "image": "assets/images/products/Pain Killers/Kombeflom.png",
+          "quantity": "6x10"
+        },
+        {
+          "id": 23,
+          "category":10,
+          "name": "Serta - 50",
+          "slug": "serta-50",
+          "tagline": "Serta 10 is used for treating anxiety related disorders, depression, obsessive compulsive disorder, post-traumatic stress disorder and related diseases.",
+          "image": "assets/images/products/Depression/Serta - 50.png",
+          "quantity": "10x10"
+        },
+        {
+          "id": 24,
+          "category":7,
+          "name": "Glimet - M2",
+          "slug": "glimet-m2",
+          "tagline": "This medication is used to lower blood sugar in patients with high blood sugar. It helps tissues to respond better with insulin.",
+          "image": "assets/images/products/Blood Sugar Management/Glimeet - M2.png",
+          "quantity":"10x10x2"
+        },
+        {
+          "id": 25,
+          "category":8,
+          "name": "Shelcal - 500",
+          "slug": "shelcal-500",
+          "tagline": "Shelcal 500 is useful for maintaining regular function in the nerves, cells, muscle and bone by absorbing calcium thereby strengthening bones.",
+          "image": "assets/images/products/Calcium/Shelcal - 500.png",
+          "quantity":"10x10x2"
+        },
+        {
+          "id": 26,
+          "category":14,
+          "name": "Tramadol",
+          "slug": "tramadol",
+          "tagline": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi aut unde maxime repudiandae nemo nisi placeat",
+          "image": "assets/images/products/Pain Killers/Tramadol.png"
+        },
+        {
+          "id": 27,
+          "category":12,
+          "name": "Omie - D",
+          "slug": "omie-d",
+          "tagline": "Omie-D capsules are used for treating abdominal pain, acidity, heartburn, gas, etc.",
+          "image": "assets/images/products/Gastroenterology management/Omie - D.png",
+          "quantity": "20 strips"
+        },
+        {
+          "id": 28,
+          "category":12,
+          "name": "Rabiwol - 20",
+          "slug": "rabiwol-20",
+          "tagline": "Rabiwol-20 is used to treat and reduce stomach acid, ulcers and bacterial infections in the stomach.",
+          "image": "assets/images/products/Gastroenterology management/Rabiwol - 20.png",
+          "quantity": "20x10"
+        },
+        {
+          "id": 29,
+          "category":12,
+          "name": "Rabiwol - DSR",
+          "slug": "rabiwol-DSR",
+          "tagline": "Rabiwol-DSR is used to treat and reduce stomach acid, ulcers and bacterial infections in the stomach.",
+          "image": "assets/images/products/Gastroenterology management/Rabiwol - DSR.png",
+          "quantity": "20x10"          
+        },
+        {
+          "id": 30,
+          "category":12,
+          "name": "Wolpon - 40",
+          "slug": "wolpon-40",
+          "tagline": "Wolpon-40 is suitable for treating ailments like back flow of acid from stomach, acidity, stomach and intestinal ulcers, heartburn, difficulty in swallowing, etc. ",
+          "image": "assets/images/products/Gastroenterology management/Wolpon - 40.png",
+          "strength": "40mg",
+          "quantity":"10x10"
+
+        },
+        {
+          "id": 31,
+          "category":12,
+          "name": "Wolpon - D",
+          "slug": "wolpon-d",
+          "tagline": "Wolpon-D is suitable for treating ailments like back flow of acid from stomach, acidity, stomach and intestinal ulcers, heartburn, difficulty in swallowing, etc.",
+          "image": "assets/images/products/Gastroenterology management/Wolpon - D.png",
+          "quantity":"20x10"
+        },
+        {
+          "id": 32,
+          "category":12,
+          "name": "Wolpon - DSR",
+          "slug": "wolpon-dsr",
+          "tagline": "Wolpon-DSR is suitable for treating ailments like back flow of acid from stomach, acidity, stomach and intestinal ulcers, heartburn, difficulty in swallowing, etc.",
+          "image": "assets/images/products/Gastroenterology management/Wolpon - DSR.png",
+          "quantity":"20x10"
+        },
+        {
+          "id": 33,
+          "category":12,
+          "name": "Wolpon - IV",
+          "slug": "wolpon-iv",
+          "tagline": "Wolpon-IV is suitable for treating ailments like back flow of acid from stomach, acidity, stomach and intestinal ulcers, heartburn, difficulty in swallowing, etc. Suitable for intravenous use only.",
+          "image": "assets/images/products/Gastroenterology management/Wolpon - IV.png",
+          "form":"Injection"
+        },
+        {
+          "id": 34,
+          "category":6,
+          "name": "Atton - 25",
+          "slug": "atton-25",
+          "tagline": "Atton 25 is used for treating high blood pressure. It is also useful for treating chest pain, kidney damage and improving survival after a heart stroke.",
+          "image": "assets/images/products/Blood Pressure Management/Atton - 25.png",
+          "quantity": "30x2x14"
+        },
+        {
+          "id": 35,
+          "category":3,
+          "name": "Lecope",
+          "slug": "lecope",
+          "tagline": "Lecope is an antihistamine that prevents allergic reactions from occurring in the body. It works by blocking histamines which cause allergic reactions such as runny nose, itching and sneezing.",
+          "quantity": "15x10",
+          "image": "assets/images/products/anti-allergic/Lekoop.png"
+        },
+        {
+          "id": 36,
+          "category":13,
+          "name": "Zolefresh 5",
+          "slug": "zolefresh-5",
+          "tagline": "Zolefresh*5 is a sedative that provides relief from insomnia. It produces a calming effect on the brain which allows one to fall asleep.",
+          "image": "assets/images/products/Insomnia/Zolefresh 5.png",
+          "quantity": "10x10",
+          "strength": "5mg"
+        },
+        {
+          "id": 37,
+          "category":12,
+          "name": "Duphelac",
+          "slug": "duphelac",
+          "tagline": "Duphelac is used for treating complications of the liver by decreasing the amount of ammonia in the blood. It provides relief from liver malfunction, chronic acidity, etc. Available in lemon flavour.",
+          "image": "assets/images/products/Gastroenterology management/Duphelac.png",
+          "quantity": "150ml"
+        },
+        {
+          "id": 38,
+          "category":15,
+          "name": "Powergen",
+          "slug": "powergen",
+          "tagline": "Powergen is used for treating erectile dysfunction and pulmonary arterial hypertension. ",
+          "image": "assets/images/products/Sexual Stimulation/Powergen.png",
+          "quantity": "2 x 9"
+        },
+        {
+          "id": 39,
+          "category":5,
+          "name": "Zentel",
+          "slug": "zentel",
+          "tagline": "This anti-worm medication prevents certain infections caused by worms such as dog tapeworm and pork tapeworm.",
+          "image": "assets/images/products/Antiworms/Zentel.png",
+          "quantity": "10ml"
+        },
+        {
+          "id": 40,
+          "category":14,
+          "name": "Altraset",
+          "slug": "altraset",
+          "tagline": "Provides relief from fever, tender and painful muscles and escalating pain. Altraset contains two main active ingredients: Acetaminophen and tramadol that increases resistance to pain and reduces fever. ",
+          "image": "assets/images/products/Pain Killers/Altraset.png",
+          "quantity": "1 x 15"
+        },
+        {
+          "id": 41,
+          "category":4,
+          "name": "Amoxssium 1.2g",
+          "slug": "amoxssium-1.2g",
+          "tagline": "Amoxssium is used to treat different infections caused by bacteria such as in the respiratory tract, urinary tract, ear infections, infections in the skin and bones, etc. This medication is suitable for intravenous use.",
+          "image": "assets/images/products/antibiotics/Amoxssium 1.2g.png",
+          "strength": "1.2g",
+          "form": "Injection"
+
+
+        },
+        {
+          "id": 42,
+          "category":4,
+          "name": "CEFTAZ",
+          "slug": "ceftaz",
+          "tagline": "Ceftriaxone & Tazobactam 500mg used for UTI, uncomplicated gonorrhea, Acute otitis media, Lower respiratory tract infections etc.",
+          "image": "assets/images/products/antibiotics/CEFTAZ.png",
+          "strength": "500mg",
+          "form": "Injection"
+        },
+        {
+          "id": 43,
+          "category":11,
+          "name": "Aristozyme",
+          "slug": "aristozyme",
+          "tagline": "Eristagym syrup is a digestive aid that provides relief from gas, heartburn and indigestion. It contains fungal diastase and pepsin that has an amazing digestive power and is useful in digestion of starch, fats, carbohydrates and proteins.",
+          "image": "assets/images/products/Digestive Enzyme/Eristagym.png",
+          "quantity": "30ml"
+        },
+        {
+          "id": 44,
+          "category":14,
+          "name": "Giclonak",
+          "slug": "giclonak",
+          "tagline": "Giclonak contains aceclofenac and paracetamol as active ingredients which gives pain relief, improvement and prevention from common ailments like arthritis, spondylitis, osteoporosis, etc.",
+          "image": "assets/images/products/Pain Killers/Giclonak.png",
+          "form": "Oral Tablet",
+          "quantity": "10x10 tablets"
+        },
+        {
+          "id": 45,
+          "category":4,
+          "name": "MONO",
+          "slug": "mono",
+          "tagline": "Mono contains ceftriaxone taken as an injection which prevents a variety of infections in the ears, urinary tract, lungs, meningitis caused by bacteria, bones and joints, etc. This medication is suitable for I.P use and can be taken as directed by your doctor.",
+          "image": "assets/images/products/antibiotics/MONO.png",
+          "strength": "1g",
+          "form": "Injection"
+
+        },
+        {
+          "id": 46,
+          "category":6,
+          "name": "Staymeo-2.5",
+          "slug": "staymeo-2.5",
+          "tagline": "Staymeo is an amlodiphine tablet that is used to lower blood pressure. It also provides relief from chest pain and maintains blood flow in the body. Please check product packaging for dosage information or consult your doctor.",
+          "image": "assets/images/products/Blood Pressure Management/Staymeo-2.5.png",
+          "strength": "2.5 mg",
+          "form": "Oral tablet",
+          "quantity": "20x15 tablets"
+
+        },
+        {
+          "id": 47,
+          "category":4,
+          "name": "Trauxune",
+          "slug": "trauxune",
+          "tagline": "Trauxune contains ceftriaxone that is used to stop the growth of bacteria. It is used to treat infection in respiratory tract, skin, bones, etc. This medication is suitable for I.M and I.V use and can be taken via an injection as directed by your doctor. ",
+          "image": "assets/images/products/antibiotics/Trauxune.png",
+          "quantity": "1000mg",
+          "form": "Injection"
+
+        },
+        {
+          "id": 48,
+          "category":14,
+          "name": "Zayitee RB",
+          "slug": "zayitee-rb",
+          "tagline": "Zayitee RB gel contains choline salicylate and benzalkonium chloride that provides relief from muscle pain, headache, fever, cold, etc. It is to be used as an antiseptic pain-relieving gel. ",
+          "image": "assets/images/products/Pain Killers/Zayitee RB.png",
+          "quantity": "10ml"
+        }
+      ]
