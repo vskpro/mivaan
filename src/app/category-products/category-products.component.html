@@ -1,0 +1,61 @@
+<div class="page-top-spacing">
+    <div class="home-products">
+      <div class="product" *ngFor="let cat of products; let i = index">
+        <div class="item odd" *ngIf="!(i%2)">
+          <div class="image">
+            <img src="{{cat.image}}" alt="" class="img-auto">
+          </div>
+          <div class="content">
+            <div class="center">
+              <h1>{{cat.name}}</h1>
+              <p>
+                {{cat.tagline}}
+              </p>
+              <p>Please view product packaging for dosage information or consult your doctor.</p>
+              <p *ngIf="cat?.strength">
+                Strength: {{cat?.strength}}
+              </p>
+              <p *ngIf="cat?.quantity">
+                Quantity: {{cat?.quantity}}
+              </p>
+              <p *ngIf="cat?.form">
+                Form: {{cat?.form}}
+              </p>
+              <p *ngIf="cat?.flavour">
+                Flavour: {{cat?.flavour}}
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="item even" *ngIf="i%2">
+  
+          <div class="content">
+            <div class="center">
+              <h1>{{cat.name}}</h1>
+              <p>
+                {{cat.tagline}}
+              </p>
+              <p>Please view product packaging for dosage information or consult your doctor.</p>
+              <p *ngIf="cat?.strength">
+                Strength: {{cat?.strength}}
+              </p>
+              <p *ngIf="cat?.quantity">
+                Quantity: {{cat?.quantity}}
+              </p>
+              <p *ngIf="cat?.form">
+                Form: {{cat?.form}}
+              </p>
+              <p *ngIf="cat?.flavour">
+                Flavour: {{cat?.flavour}}
+              </p>
+            </div>
+          </div>
+  
+          <div class="image">
+            <img src="{{cat.image}}" alt="" class="img-auto">
+          </div>
+  
+        </div>
+      </div>
+    </div>
+  </div>

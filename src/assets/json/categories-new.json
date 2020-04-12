@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Amenorrhea",
+    "slug": "amenorrhea",
+    "tagline": "Amenorrhea is associated with complications during menstrual bleeding. Treatment for it may be associated with the cause and should be recommended by a doctor.",
+    "image": "assets/images/product-cat/amenorrhea.png"
+  },
+  {
+    "id": 2,
+    "name": "Anemia",
+    "slug": "anemia",
+    "tagline": "A deficiency in red blood cells or haemoglobin results in weakness in the body, known as anaemia. Treatment will depend on underlying diagnosis by a doctor.",
+    "image": "assets/images/product-cat/anemia.png"
+  },
+  {
+    "id": 3,
+    "name": "Anti Allergic",
+    "slug": "anti-allergic",
+    "tagline": "From antihistamines to creams, we provide medicines to treat different kinds of allergic reactions.",
+    "image": "assets/images/product-cat/Anti-allergic.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Antibiotics",
+    "slug": "antibiotics",
+    "tagline": "Antibiotics are the most important agent for fighting off dangerous bacterial infections. Our products cover a wide range of medications for treating and preventing such infections.",
+    "image": "assets/images/product-cat/ANTI-BIOTICS.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Antiworms",
+    "slug": "antiworms",
+    "tagline": "Mivaan medication provides solutions and prevention from infections caused by worms.",
+    "image": "assets/images/product-cat/Anti Worms.png"
+  },
+  {
+    "id": 6,
+    "name": "Blood Pressure Management",
+    "slug": "blood-pressure-management",
+    "tagline": "Hypertension can lead to heart failure, strokes and kidney diseases. Our goal is to protect significant organs from severe damage.",
+    "image": "assets/images/product-cat/Blood-Pressure-Management.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blood Suger Management",
+    "slug": "blood-suger-management",
+    "tagline": "Mivaan’s medication works towards stabilising blood glucose levels in a healthy range which is essential especially for diabetic patients.",
+    "image": "assets/images/product-cat/Blood-Suger-&-Diabetes-Management.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Calcium",
+    "slug": "calcium",
+    "tagline": "Calcium supplements are a necessary addition to one’s dietary supply to maintain healthy bone growth.",
+    "image": "assets/images/product-cat/Calcium.png"
+  },
+  {
+    "id": 9,
+    "name": "Cough managment",
+    "slug": "cough-managment",
+    "tagline": "The early diagnosis and treatment of cough should be given consideration and can essentially prevent a frustrating condition.",
+    "image": "assets/images/product-cat/Cough.png"
+  },
+  {
+    "id": 10,
+    "name": "Depression Management",
+    "slug": "depression-management",
+    "tagline": "Depression is generally overlooked by most however it can interfere with your daily functioning and must be treated.",
+    "image": "assets/images/product-cat/Depression-Management_01.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Digestive Enzyme",
+    "slug": "digestive-enzyme",
+    "tagline": "Digestive enzymes are an essential part of preventing digestive malfunctions and similar ailments.",
+    "image": "assets/images/product-cat/Digestive.png"
+  },
+  {
+    "id": 12,
+    "name": "Gastroenterology Management",
+    "slug": "gastroenterology-management",
+    "tagline": "Our range of medications provide treatment and relief from disorders pertaining to the stomach and intestines.",
+    "image": "assets/images/product-cat/Gastroenterology-management.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Insomnia",
+    "slug": "insomnia",
+    "tagline": "Based on diagnosis, insomnia can be cured by non-medical therapy, however, medication is an effective form of treatment.",
+    "image": "assets/images/product-cat/Insomnia.png"
+  },
+  {
+    "id": 14,
+    "name": "Pain Killers",
+    "slug": "pain-killers",
+    "tagline": "Mivaan’s range of painkillers are suitable for a diverse range of ailments and are used to lessen and provide relief from pain.",
+    "image": "assets/images/product-cat/Pain-&-INFLAMMATION-MANAGEMENT.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sexual Stimulation",
+    "slug": "Ssxual-stimulation",
+    "tagline": "Medication for sexual performance can be prescribed for treating erectile dysfunction and impotence.",
+    "image": "assets/images/product-cat/Sexual.png"
+  }
+]

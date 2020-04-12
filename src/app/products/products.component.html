@@ -1,0 +1,37 @@
+<div class="page-top-spacing">
+    <div class="home-products">
+      <div class="product" *ngFor="let cat of categories; let i = index">
+        <div class="item odd" *ngIf="!(i%2)">
+          <div class="image">
+            <img src="{{cat.image}}" alt="" class="img-auto">
+          </div>
+          <div class="content">
+            <div class="center">
+              <h1>{{cat.name}}</h1>
+              <p>
+                {{cat.tagline}}
+              </p>
+              <a routerLink="/category/{{cat.id}}" class="btn btn-cat-link">See Products</a>
+            </div>
+          </div>
+        </div>
+        <div class="item even" *ngIf="i%2">
+
+          <div class="content">
+            <div class="center">
+              <h1>{{cat.name}}</h1>
+              <p>
+                {{cat.tagline}}
+              </p>
+              <a routerLink="/category/{{cat.id}}" class="btn btn-cat-link">See Products</a>
+            </div>
+          </div>
+
+          <div class="image">
+            <img src="{{cat.image}}" alt="" class="img-auto">
+          </div>
+
+        </div>
+      </div>
+    </div>
+</div>
